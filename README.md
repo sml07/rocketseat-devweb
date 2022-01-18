@@ -1,3 +1,3 @@
-#rocketseat
+# rocketseat
 
 Rocketseat web development studies.
